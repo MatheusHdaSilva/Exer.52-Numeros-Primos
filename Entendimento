@@ -1,0 +1,5 @@
+Criando a varável para recolher o número, escolhido pelo usuário.
+Usamos a estrutura de repetição ''for'' para começar do 1 até o número escolhido pelo usuário, + 1 por conta da linguagem contar um a menos.
+Agora criasse uma variável para informar quantas vezes o número foi divisível 
+Abrindo um if e else para os números divisíveis pelo contador apareçam em amarelo e os que não em vermelho 
+Depois de informal qual o número escolhidoe quantas vezes foi divisível abrece outro if para a razão calcular se ele é primo ou não!
